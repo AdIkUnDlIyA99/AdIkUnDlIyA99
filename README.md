@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Kundliya
 
-<!--
-**Adikundliya/Adikundliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech CSE (AI-ML) Student
+
+📍 First Year
+
+
+
+###### 💡 I’m passionate about Artificial Intelligence and Machine Learning, and I enjoy building projects that solve real-world problems using data and code.
+
+###### 
+
+###### 🚀 I’m currently learning and exploring the fundamentals of AI/ML, along with improving my programming and development skills.
+
+###### 
+
+###### 🎯 My goal is to gain strong practical knowledge in AI/ML and build impactful, real-world applications.
+
